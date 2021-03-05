@@ -22,8 +22,8 @@ title: Stenodicts
 email: info@mkoerner.de
 description: >- # this means to ignore newlines until "baseurl:"
   Contains some of my stenography dictionaries for stuff like navigation and special characters.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/stenodicts" # the subpath of your site, e.g. /blog
+url: "https://mkrnr.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
